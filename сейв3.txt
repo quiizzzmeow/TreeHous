@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/img">
+    <title>TreeHouse</title>
+</head>
+<body>
+    <header class="header">
+        <div class="container_header">
+            <a href="" class="left_box">
+                <div class="circle"></div>
+                <div class="title1">Treehouse</div>
+            </a>
+            <div class="right1">
+                <ul class="list">
+                    <li class="list_item1">
+                        <a href="" class="s">Home</a>
+                    </li>
+                    <li class="list_item1">
+                        <a href="" class="s">About</a>
+                    </li>
+                    <li class="list_item1">
+                        <a href="" class="s">Blog</a>
+                    </li>
+                    <li class="list_item1">
+                        <a href="" class="s">Portfolio</a>
+                    </li>
+                    <li class="list_item1">
+                        <a href="" class="s">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <div class="box">
+            <div class="container_pic">
+                <div class="box_pic">
+                    <div class="title2">
+                        Creative Digital<br>
+                        Solutions
+                    </div>
+                    <div class="sub_title sb1">Proin iaculis purus consequat sem cure.</div>
+                    <a href="" class="btn first">View Portfolio</a>
+                </div>
+            </div>
+            <div class="container_services">
+                <div class="box_services">
+                    <div class="box_top">
+                        <div class="title5">Professional Services</div>
+                        <div class="sub_title sb2">Proin iaculis purus consequat sem cure</div>
+                    </div>
+                    <div class="box_bottom">
+                        <ul class="list">
+                            <li class="list_item2">
+                                <div class="pic fp"></div>
+                                <div class="title7">beautiful designs</div>
+                                <div class="text1">
+                                    Proin iaculis purus consequat sem cure<br>
+                                    digni ssim. Donec porttitora entum suscipit<br>
+                                    aenean rhoncus posuere odio in tincidunt.
+                                </div>
+                            </li>
+                            <li class="list_item2">
+                                <div class="pic sp"></div>
+                                <div class="title7">responsive web</div>
+                                <div class="text1">
+                                    Proin iaculis purus consequat sem cure<br>
+                                    digni ssim. Donec porttitora entum suscipit<br>
+                                    aenean rhoncus posuere odio in tincidunt.
+                                </div>
+                            </li>
+                            <li class="list_item2">
+                                <div class="pic tp"></div>
+                                <div class="title7">Marketing tools</div>
+                                <div class="text1">
+                                    Proin iaculis purus consequat sem cure<br>
+                                    digni ssim. Donec porttitora entum suscipit<br>
+                                    aenean rhoncus posuere odio in tincidunt.
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container_gear">
+                <div class="gear">
+                    <img src="css/img/gear.png" alt="">
+                </div>
+                <div class="relax">
+                    <div class="no_befor">
+                        <div class="title8">
+                            Just relax <span class="sub_title2">&</span><br>
+                            let us do the heavy lifting
+                        </div>
+                        <div class="text">
+                            Proin iaculis purus consequat sem cure  digni ssim. Donec<br>
+                            porttitora entum suscipit  aenean rhoncus posuere odio in tincidunt.
+                        </div>
+                        <ul class="list3">
+                            <li class="list_item3">
+                                <div class="circle2">
+                                    <div class="check_mark"></div>
+                                </div>
+                                <div class="title9">Initial Setup & Customizations</div>
+                            </li>
+                            <li class="list_item3">
+                                <div class="circle2">
+                                    <div class="check_mark"></div>
+                                </div>
+                                <div class="title9">Regular Updates</div>
+                            </li>
+                            <li class="list_item3">
+                                <div class="circle2">
+                                    <div class="check_mark"></div>
+                                </div>
+                                <div class="title9">Round The Clock Support</div>
+                            </li>
+                        </ul>
+                        <a href="" class="btn second">Learn more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="container_project">
+                <div class="latest_project">
+                    <div class="top">
+                        <div class="title5">latest project</div>
+                        <div class="sub_title sb2">Proin iaculis purus consequat sem cure</div>
+                    </div>
+                    <div class="bottom">
+                        <div class="title10">Developing a framework</div>
+                        <div class="text3">
+                            Proin iaculis purus consequat sem cure  digni ssim<br>
+                            donec porttitora entum suscipit  aenean rhoncus posuere<br>
+                            odio in tincidunt.
+                        </div>
+                        <div class="box_list2">
+                            <ul class="list4">
+                                <li class="list_item4">
+                                    <div class="left">
+                                        <div class="circle3 ft"></div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title11">E-Commerce Ready</div>
+                                        <div class="text3">Proin iaculis purus consequat sem cure  digni ssim. </div>
+                                    </div>
+                                </li>
+                                <li class="list_item4">
+                                    <div class="left">
+                                        <div class="circle3 sd"></div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title11">Powerful SEO Features</div>
+                                        <div class="text3">Proin iaculis purus consequat sem cure.</div>
+                                    </div>
+                                </li>
+                                <li class="list_item4">
+                                    <div class="left">
+                                        <div class="circle3 td"></div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title11">Secure Encryption</div>
+                                        <div class="text3">Proin iaculis purus consequat sem cure iaculis purus.</div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="text3">
+                            Proin iaculis purus consequat sem cure  digni ssim donec<br>
+                            porttitora entum suscipit  aenean rhoncus posuere odio in.
+                        </div>
+                        <a href="" class="btn_view">
+                            <div class="view">View Details</div>
+                            <div class="arrow"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="container_culture">
+                <div class="box_culture">
+                    <div class="top2">
+                        <div class="title5">culture & Values</div>
+                        <div class="sub_title sb2">Proin iaculis purus consequat cure.</div>
+                    </div>
+                    <div class="bottom2">
+                        <ul class="list">
+                            <li class="list_item2 befor">
+                                <div class="pic2 pic_f"></div>
+                                <div class="title7">Work-Life Balance</div>
+                                <div class="text1">
+                                    Proin iaculis purus consequat sem cure<br>
+                                    digni ssim. Donec porttitora entum suscipit<br>
+                                    aenean rhoncus posuere odio in tincidunt.
+                                </div>
+                            </li>
+                            <li class="list_item2 befor">
+                                <div class="pic2 pic_s"></div>
+                                <div class="title7">Quality Over Quantity</div>
+                                <div class="text1">
+                                    Proin iaculis purus consequat sem cure<br>
+                                    digni ssim. Donec porttitora entum suscipit<br>
+                                    aenean rhoncus posuere odio in tincidunt.
+                                </div>
+                            </li>
+                            <li class="list_item2 befor">
+                                <div class="pic2 pic_t"></div>
+                                <div class="title7">Deliver Excellence</div>
+                                <div class="text1">
+                                    Proin iaculis purus consequat sem cure<br>
+                                    digni ssim. Donec porttitora entum suscipit<br>
+                                    aenean rhoncus posuere odio in tincidunt.
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container_message">
+                <div class="box_message">
+                    <div class="top2">
+                        <div class="title5">our awesome clients</div>
+                        <div class="sub_title sb2">Proin iaculis purus consequat sem cure.</div>
+                    </div>
+                    <div class="botttom2">
+                        <ul class="list_message">
+                            <li class="list_item5">
+                                <div class="left2">
+                                    <div class="ava"></div>
+                                </div>
+                                <div class="right2">
+                                    <div class="block_message">
+                                        <div class="message">
+                                            “ Proin iaculis purus consequat sem cure  digni ssim 
+                                            donec porttitora entum suscipit aenean rhoncus. ”
+                                        </div>
+                                        <div class="name">
+                                            - Jamie Richardson, Founder of Cocoa Media
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="list_item5">
+                                <div class="left2">
+                                    <div class="block_message bms">
+                                        <div class="message">
+                                            “ Proin iaculis purus consequat sem cure  digni ssim 
+                                            donec porttitora entum suscipit aenean rhoncus. ”
+                                        </div>
+                                        <div class="name">- Kim Thompson, Founder of Rainel</div>
+                                    </div>
+                                </div>
+                                <div class="right2">
+                                    <div class="ava"></div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
